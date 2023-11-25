@@ -1,2 +1,3 @@
 1st line in local
 2nd line in remote
+3rd line in local
